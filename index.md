@@ -1,6 +1,6 @@
 ## Welcome to Pranav's GitHub page
 
-# Pranav's First CS 193 Homework
+# Pranav's First CS 193 Homework (what he's excited about)
 - the instructors
 - the learning 
 - the classmates
